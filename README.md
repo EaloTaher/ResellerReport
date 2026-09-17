@@ -6,7 +6,7 @@ Reportly was designed to replace manual daily reporting workflows with a central
 
 ## Screenshots
 
-### Dashboard
+### Main Screen
 
 ![Reportly Dashboard](./screenshots/dashboard.png)
 
