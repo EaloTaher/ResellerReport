@@ -6,22 +6,15 @@ Reportly was designed to replace manual daily reporting workflows with a central
 
 ## Screenshots
 
-### Main Screen
+<p align="center">
+  <img src="./screenshots/dashboard.jpg" width="400">
+  <img src="./screenshots/daily-report.jpg" width="400">
+</p>
 
-![Reportly Dashboard](./screenshots/dashboard.jpg)
-
-### Daily Reports
-
-![Reportly Daily Reports](./screenshots/daily-report.jpg)
-
-### Customers
-
-![Reportly Customers](./screenshots/customers.jpg)
-
-
-### Settings
-
-![Reportly Settings](./screenshots/settings.jpg)
+<p align="center">
+  <img src="./screenshots/customers.jpg" width="400">
+  <img src="./screenshots/settings.jpg" width="400">
+</p>
 
 ## Features
 
