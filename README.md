@@ -12,7 +12,7 @@ Reportly was designed to replace manual daily reporting workflows with a central
 
 ### Daily Reports
 
-![Reportly Daily Reports](./screenshots/daily-reports.jpg)
+![Reportly Daily Reports](./screenshots/daily-report.jpg)
 
 ### Customers
 
